@@ -1,0 +1,52 @@
+[
+    {
+
+        "id":0,
+        "title":"Bags",
+        "name":"Addidas Bags",
+        "image":"https://m.media-amazon.com/images/I/618VcNKyetL._AC_UX522_.jpg",
+        "price":"1500"
+    },{
+        "id":1,
+        "title":"Bags",
+        "name":"Addidas Bags",
+        "image":"https://m.media-amazon.com/images/I/618VcNKyetL._AC_UX522_.jpg",
+        "price":"1500"
+    },{
+        "id":2,
+        "title":"Bags",
+        "name":"Addidas Bags",
+        "image":"https://m.media-amazon.com/images/I/618VcNKyetL._AC_UX522_.jpg",
+        "price":"1500"
+    },{
+        "id":3,
+        "title":"Bags",
+        "name":"Addidas Bags",
+        "image":"https://m.media-amazon.com/images/I/618VcNKyetL._AC_UX522_.jpg",
+        "price":"1500"
+    },{
+        "id":4,
+        "title":"Bags",
+        "name":"Addidas Bags",
+        "image":"https://m.media-amazon.com/images/I/618VcNKyetL._AC_UX522_.jpg",
+        "price":"1500"
+    },{
+        "id":5,
+        "title":"Bags",
+        "name":"Addidas Bags",
+        "image":"https://m.media-amazon.com/images/I/618VcNKyetL._AC_UX522_.jpg",
+        "price":"1500"
+    },{
+        "id":6,
+        "title":"Bags",
+        "name":"Addidas Bags",
+        "image":"https://m.media-amazon.com/images/I/618VcNKyetL._AC_UX522_.jpg",
+        "price":"1500"
+    },{
+        "id":7,
+        "title":"Bags",
+        "name":"Addidas Bags",
+        "image":"https://m.media-amazon.com/images/I/618VcNKyetL._AC_UX522_.jpg",
+        "price":"1500"
+    }
+]
