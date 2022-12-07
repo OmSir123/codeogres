@@ -41,7 +41,7 @@ const Navbar = () => {
     <div className='md:flex   text-center sticky top-0 z-10  md:justify-between bg-slate-800 py-2 '>
       <div className='logo  flex text-center justify-center '>
         <h1 className='logo ml-10  font-sans md:ml-10 font-extrabold text-xl md:text-2xl pr-3 text-blue-500'>
-          CODE OGRE
+          CODE OPPO
         </h1>
         <SiProgress className='text-blue-500 mt-2' />
       </div>

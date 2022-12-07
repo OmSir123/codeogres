@@ -22,7 +22,7 @@ const Contact = () => {
             <div className='flex   '>
               <div className='w-[50%] hidden md:block rounded-2xl py-4 h-[31rem] bg-gradient-to-r from-cyan-500 to-blue-500'>
                 <div className='flex text-center justify-center font-extrabold text-blue-50 text-3xl'>
-                  <h1 className=' '>CODE OGRE </h1>
+                  <h1 className=' '>CODE OPPO </h1>
                   <SiProgress className='font-bold text-xl mt-2 mx-2' />
                 </div>
                 <div className='content text-white font-medium'>
@@ -62,7 +62,7 @@ const Contact = () => {
                     placeholder='Enter Your Message'
                     className='bg-slate-400 px-3 mx-10 lg:mx-0 rounded-lg pt-3 placeholder:text-gray-700 placeholder:font-sans'
                     id=''
-                    cols='45'
+                    cols='55'
                     rows='5'
                   ></textarea>
                   <br />
